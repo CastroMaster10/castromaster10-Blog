@@ -56,10 +56,10 @@ pagination.pagerSize = 10
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Smigle"
+    title = "El rincón de..."
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "No esperes nada de aquí"
       owner = ""
       keywords = ""
       copyright = ""
@@ -95,6 +95,12 @@ pagination.pagerSize = 10
           name = "Posts"
           url = "/posts/"
           weight = 3
+
+
+baseURL      = "https://castromaster10.github.io/castromaster10-Blog/"
+relativeURLs = true
+canonifyURLs = true
+
 
 
 [caches]

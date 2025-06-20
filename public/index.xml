@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smigle</title>
+    <title>El rincón de...</title>
     <link>/</link>
-    <description>Recent content on Smigle</description>
+    <description>Recent content on El rincón de...</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
@@ -13,14 +13,14 @@
       <link>/posts/my-second-blog/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid>/posts/my-second-blog/</guid>
-      <description>&lt;p&gt;What&amp;rsquo;s up dickheads!! Lalalalava chi chicken! :)&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;images/steve.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;What&amp;rsquo;s up dickheads!! Lalalalava chi chicken! :)&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/steve.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Castromaster First Blog</title>
       <link>/posts/castromaster-first-blog/</link>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
       <guid>/posts/castromaster-first-blog/</guid>
-      <description>&lt;p&gt;!&lt;img src=&#34;images/happyFace.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is my test for my personal blog! Hope you guys enjoy it. I realized that it is&lt;/p&gt;</description>
+      <description>&lt;p&gt;!&lt;img src=&#34;/images/happyFace.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is my test for my personal blog! Hope you guys enjoy it. I realized that it is&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
