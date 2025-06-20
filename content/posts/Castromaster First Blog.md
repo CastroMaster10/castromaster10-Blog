@@ -6,7 +6,9 @@ tags:
   - CastroMaster10
   - blog
 ---
-!![Image Description](/images/happyFace.png)
+
+
+![Image Description](images/happyFace.png)
 
 Here is my test for my personal blog! Hope you guys enjoy it... 
 
