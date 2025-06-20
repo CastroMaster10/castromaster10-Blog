@@ -56,10 +56,10 @@ pagination.pagerSize = 10
 [languages]
   [languages.en]
     languageName = "English"
-    title = "El rincón de..."
+    title = "La esquina"
 
     [languages.en.params]
-      subtitle = "No esperes nada de aquí"
+      subtitle = "Un espacio para las mentes desquehaceradas de internet..."
       owner = ""
       keywords = ""
       copyright = ""
