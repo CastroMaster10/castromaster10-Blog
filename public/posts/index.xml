@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Smigle</title>
-    <link>//localhost:1313/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Smigle</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Castromaster First Blog</title>
-      <link>//localhost:1313/posts/castromaster-first-blog/</link>
+      <link>/posts/castromaster-first-blog/</link>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/castromaster-first-blog/</guid>
-      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/happyFace.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is my test for my personal blog! Hope you guys enjoy it&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;$\alpha=5, \beta=2$ .&lt;/p&gt;</description>
+      <guid>/posts/castromaster-first-blog/</guid>
+      <description>&lt;p&gt;!&lt;img src=&#34;images/happyFace.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is my test for my personal blog! Hope you guys enjoy it. I realized that it is&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
