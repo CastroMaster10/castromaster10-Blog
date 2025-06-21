@@ -95,14 +95,3 @@ pagination.pagerSize = 10
           name = "Posts"
           url = "/posts/"
           weight = 3
-
-
-baseURL      = "https://castromaster10.github.io/castromaster10-Blog/"
-relativeURLs = true
-canonifyURLs = true
-
-
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>La esquina</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on La esquina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My second blog</title>
-      <link>/posts/my-second-blog/</link>
+      <link>//localhost:1313/posts/my-second-blog/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/my-second-blog/</guid>
-      <description>&lt;p&gt;What&amp;rsquo;s up dickheads!! Lalalalava chi chicken! :)&lt;/p&gt;&#xA;&lt;p&gt;!&lt;img src=&#34;/images/steve.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/my-second-blog/</guid>
+      <description>&lt;p&gt;What&amp;rsquo;s up dickheads!! Lalalalava chi chicken! :)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/steve.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Castromaster First Blog</title>
-      <link>/posts/castromaster-first-blog/</link>
+      <link>//localhost:1313/posts/castromaster-first-blog/</link>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/castromaster-first-blog/</guid>
-      <description>&lt;p&gt;!&lt;img src=&#34;/images/happyFace.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is my test for my personal blog! Hope you guys enjoy it. I realized that it is&lt;/p&gt;</description>
+      <guid>//localhost:1313/posts/castromaster-first-blog/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/happyFace.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is my test for my personal blog! Hope you guys enjoy it. I realized that it is&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;p&gt;Ut vitae sagittis tortor. Aliquam euismod vel elit id porttitor. Sed sit amet feugiat urna, quis semper ipsum. Ut vitae ligula ultrices, porttitor ipsum nec, accumsan est. Nunc posuere felis non mauris volutpat interdum. Sed consequat arcu est, eget consequat enim feugiat rhoncus. Nunc sit amet rhoncus libero, venenatis tristique eros. Duis feugiat sem ac eros maximus gravida. Cras mollis vulputate risus, eget tincidunt neque porttitor vitae. Sed sit amet volutpat urna. Aenean ultricies turpis eget porta porttitor.&lt;/p&gt;</description>
     </item>
   </channel>
