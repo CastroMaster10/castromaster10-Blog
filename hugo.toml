@@ -1,5 +1,5 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "es-mx"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "smigle"
@@ -46,6 +46,8 @@ pagination.pagerSize = 10
   # TocTitle = "Table of Contents" # default
 
 
+
+
 [params.twitter]
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
@@ -62,7 +64,7 @@ pagination.pagerSize = 10
       subtitle = "Un espacio para las mentes desquehaceradas de internet..."
       owner = ""
       keywords = ""
-      copyright = ""
+      copyright = "Que"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
@@ -80,18 +82,18 @@ pagination.pagerSize = 10
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "home"
-          name = "Home"
+          name = "Principal"
           url = "/"
           weight = 1
 
         [[languages.en.menu.main]]
           identifier = "about"
-          name = "About"
+          name = "Descripción"
           url = "/about/"
           weight = 2
 
         [[languages.en.menu.main]]
           identifier = "posts"
-          name = "Posts"
+          name = "Publicaciones"
           url = "/posts/"
           weight = 3

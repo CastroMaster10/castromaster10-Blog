@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on La esquina</title>
-    <link>/tags/books/</link>
+    <link>//localhost:1313/tags/books/</link>
     <description>Recent content in Books on La esquina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>third blog</title>
-      <link>/posts/third-post/</link>
+      <link>//localhost:1313/posts/third-post/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/third-post/</guid>
+      <guid>//localhost:1313/posts/third-post/</guid>
       <description>&lt;p&gt;I am reading a book&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://castromaster10.github.io/castromaster10-Blog/images/niche.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>

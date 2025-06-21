@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CastroMaster10 on La esquina</title>
-    <link>/tags/castromaster10/</link>
+    <link>//localhost:1313/tags/castromaster10/</link>
     <description>Recent content in CastroMaster10 on La esquina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/castromaster10/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/castromaster10/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My second blog</title>
-      <link>/posts/my-second-blog/</link>
+      <link>//localhost:1313/posts/my-second-blog/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/my-second-blog/</guid>
+      <guid>//localhost:1313/posts/my-second-blog/</guid>
       <description>&lt;p&gt;What&amp;rsquo;s up dickheads!! Lalalalava chi chicken! :)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://castromaster10.github.io/castromaster10-Blog/images/steve.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>third blog</title>
-      <link>/posts/third-post/</link>
+      <link>//localhost:1313/posts/third-post/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/third-post/</guid>
+      <guid>//localhost:1313/posts/third-post/</guid>
       <description>&lt;p&gt;I am reading a book&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://castromaster10.github.io/castromaster10-Blog/images/niche.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Castromaster First Blog</title>
-      <link>/posts/castromaster-first-blog/</link>
+      <link>//localhost:1313/posts/castromaster-first-blog/</link>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/posts/castromaster-first-blog/</guid>
+      <guid>//localhost:1313/posts/castromaster-first-blog/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://castromaster10.github.io/castromaster10-Blog/images/happyFace.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Here is my test for my personal blog! Hope you guys enjoy it. I realized that it is&lt;/p&gt;</description>
     </item>
   </channel>

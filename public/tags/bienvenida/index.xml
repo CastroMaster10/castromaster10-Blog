@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>La esquina</title>
-    <link>/</link>
-    <description>Recent content on La esquina</description>
+    <title>Bienvenida on La esquina</title>
+    <link>/tags/bienvenida/</link>
+    <description>Recent content in Bienvenida on La esquina</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 20 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/bienvenida/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi primer blog</title>
       <link>/posts/mi-primer-blog/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid>/posts/mi-primer-blog/</guid>
       <description>&lt;p&gt;Este es mi primera publicación en este espacio que creé para todo tipo de cosas, sobretodo review de libros, artículos de opinion y proyectos personales. Además, uno de los propósitos que tengo para los siguientes meses es el de escribrir, creo que al plasmar mis ideas en este formato, voy a poder desarrollar mi parte  creativa. La verdad que soy malísimo redactando, así que si eres de los pocos que está leyendo esto, te agradezco la paciencia de leerme. Espero lo disfruten :)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description>&lt;p&gt;Ut vitae sagittis tortor. Aliquam euismod vel elit id porttitor. Sed sit amet feugiat urna, quis semper ipsum. Ut vitae ligula ultrices, porttitor ipsum nec, accumsan est. Nunc posuere felis non mauris volutpat interdum. Sed consequat arcu est, eget consequat enim feugiat rhoncus. Nunc sit amet rhoncus libero, venenatis tristique eros. Duis feugiat sem ac eros maximus gravida. Cras mollis vulputate risus, eget tincidunt neque porttitor vitae. Sed sit amet volutpat urna. Aenean ultricies turpis eget porta porttitor.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

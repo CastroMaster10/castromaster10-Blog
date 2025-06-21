@@ -2,22 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/bienvenida/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/blog/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/books/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/castromaster10/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/my-second-blog/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/niche/</loc>
+    <loc>/posts/mi-primer-blog/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
@@ -25,12 +19,6 @@
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/third-post/</loc>
-    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/castromaster-first-blog/</loc>
-    <lastmod>2025-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/about/</loc>
   </url><url>
