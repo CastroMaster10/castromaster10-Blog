@@ -11,4 +11,4 @@ tags:
 
 I am reading a book...
 
-!![Image Description](https://castromaster10.github.io/castromaster10-Blog/niche.png)
+![Image Description](https://castromaster10.github.io/castromaster10-Blog/images/niche.png)

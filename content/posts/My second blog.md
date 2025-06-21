@@ -8,4 +8,4 @@ tags:
 ---
 What's up dickheads!! Lalalalava chi chicken! :)
 
-!![Image Description](https://castromaster10.github.io/castromaster10-Blog/steve.png)
+![Image Description](https://castromaster10.github.io/castromaster10-Blog/images/steve.png)
