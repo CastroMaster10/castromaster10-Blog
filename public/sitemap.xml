@@ -2,29 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/blog/</loc>
+    <loc>/tags/blog/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/castromaster10/</loc>
+    <loc>/tags/books/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/tags/castromaster10/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/my-second-blog/</loc>
+    <loc>/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/my-second-blog/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/niche/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/castromaster-first-blog/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/third-post/</loc>
+    <lastmod>2025-06-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/castromaster-first-blog/</loc>
     <lastmod>2025-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>
