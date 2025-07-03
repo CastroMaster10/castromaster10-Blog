@@ -9,3 +9,4 @@ Reflexionando durante la mañana, se me cruzó un pensamiento relacionado a nues
 
 Tal vez nuestro cerebro nunca ha estado preparado para la nueva realidad virtual que hemos creado en estos últimos 20 años. 
 
+![Image Description](https://castromaster10.github.io/castromaster10-Blog/images/WhatsApp%20Image%202025-07-02%20at%2018.20.12_2718ff17.jpg)
